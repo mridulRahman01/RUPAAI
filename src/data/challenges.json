@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Challenge 1",
+    "description": "Solve a math puzzle using Scratch",
+    "image": "/src/assets/Sidratul_Montaha_Create_an_image_of__bangladeshi__two_real_small_ki_1df4a16a-e0b3-4371-b728-90b8e9a1a090.png"
+  },
+  {
+    "id": 2,
+    "title": "Challenge 2",
+    "description": "Create a simple JavaScript game",
+    "image": "/src/assets/_5e3da47f-e6fd-46e6-b7e9-566a1e332fe9.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Challenge 3",
+    "description": "Design a responsive website",
+    "image": "/src/assets/_c3f8f3f3-a487-4663-b414-7043d8e1e041.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Challenge 4",
+    "description": "Build a weather app using an API",
+    "image": "/src/assets/challenge4.png"
+  },
+  {
+    "id": 5,
+    "title": "Challenge 5",
+    "description": "Develop a personal blog website",
+    "image": "/src/assets/challenge5.jpeg"
+  }
+]
